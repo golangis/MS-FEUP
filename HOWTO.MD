@@ -4,3 +4,5 @@ To run the `Traffic Intersection_dev.nlogo`, you must have Netlogo installed on 
 Then under `File` section, choose `Open...` and select the model file.
 
 To run the simulation, first select the desired conditions and click `setup`. If the setup is successful, the `go` and `go-once` buttons will become available, enabling you to run the simulation continuously or advance it one tick at a time, respectively.
+
+GitHub Repo: https://github.com/golangis/MS-FEUP 
